@@ -1,6 +1,6 @@
 # gotopublish
+[image] (https://www.gotopublish.com/content/uploads/2018/09/GTP-New-Logo-Green-Design.png)
 ###Your Go-To Publish Partner is Everything Publishing and Self-Publishing
-##Themes to describe
 
 [how to publish a book](https://gotopublish.com)
 
